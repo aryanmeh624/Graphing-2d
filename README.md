@@ -89,7 +89,7 @@ gcc Main.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 ## 🚧 TODO Features
 
 - [ ] Support for advanced functions (log, sin, cos)
-- [ ] Improved panning functionality
+- [ ] Add panning functionality using right click and drag
 - [ ] More precise point labeling
 - [ ] Support for general equations in x and y
 
@@ -99,7 +99,4 @@ Aryan Agrawal
 
 ## 📝 License
 
-This project is available under the MIT License.
-
----
-⭐ Don't forget to star this repo if you found it helpful!
+This project is available under the GNU License.
