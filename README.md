@@ -10,6 +10,7 @@ A simple yet powerful polynomial graphing calculator built with C and raylib. Vi
 * 📏 Dynamic grid scaling and axis labeling
 * 🎯 Point value display on hover
 * 🌈 Multiple color options for graphs
+* 🌈 Multiple equations.
 
 ## 🎯 Usage
 
