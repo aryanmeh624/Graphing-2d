@@ -1,5 +1,9 @@
 # 📊 2D Graphic Calculator 📈
 
+![alt text](https://i.ibb.co/W68pxK6/Screenshot-from-2024-12-12-23-42-01.png)
+![alt text](https://i.ibb.co/PDkLD5d/Screenshot-from-2024-12-12-23-43-00.png) 
+
+
 A simple yet powerful polynomial graphing calculator built with C and raylib. Visualize mathematical functions with ease!
 
 ## ✨ Features
